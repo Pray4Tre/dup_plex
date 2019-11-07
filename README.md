@@ -61,7 +61,7 @@ _Note: Steps below are for Debian-based distros (other operating systems will re
 1. Clone the Plex DupeFinder repo.
 
    ```
-   sudo git clone https://github.com/l3uddz/plex_dupefinder /opt/plex_dupefinder
+   sudo git clone https://github.com/Pray4Tre/Plex-DupeFinder.git /opt/plex_dupefinder
    ```
 
 1. Find your user & group.
