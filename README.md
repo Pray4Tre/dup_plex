@@ -1,7 +1,7 @@
 <img src="assets/logo.svg" width="600" alt="Plex DupeFinder">
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg?style=flat-square)](https://www.python.org/)
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%203-blue.svg?style=flat-square)](https://github.com/pray4tre/plex_dupefinder/blob/master/LICENSE.md)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%203-blue.svg?style=flat-square)](https://github.com/Pray4Tre/Plex-DupeFinder/blob/master/LICENSE.md)
 
 ---
 
