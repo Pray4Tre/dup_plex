@@ -68,7 +68,7 @@ _Note: Steps below are for Debian-based distros (other operating systems will re
 1. Fix permissions of the Plex DupeFinder folder (replace `user`/`group` with yours).
 
    ```
-   sudo chown -R user:group /opt/dup_plexf
+   sudo chown -R user:group /opt/dup_plex
    ```
 
 1. Go into the Plex DupeFinder folder.
