@@ -94,6 +94,12 @@ _Note: Steps below are for Debian-based distros (other operating systems will re
    ```
    dup_plex
    ```
+   
+1. You may need to chmod the python script if you get an error.
+
+   ```
+   chmod a+x dup_plex.py
+   ```
 
 1. Fill in Plex URL and credentials at the prompt to generated a Plex Access Token (optional).
 
