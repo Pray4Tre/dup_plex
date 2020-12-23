@@ -1,4 +1,4 @@
-<img src="assets/logo.svg" width="600" alt="Dup Plex">
+<img src="assets/logo.png" width="600" alt="Dup Plex">
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg?style=flat-square)](https://www.python.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%203-blue.svg?style=flat-square)](https://github.com/Pray4Tre/Plex-DupeFinder/blob/master/LICENSE.md)
