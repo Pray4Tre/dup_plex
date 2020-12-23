@@ -1,4 +1,4 @@
-<img src="assets/logo.svg" width="600" alt="Plex DupeFinder">
+<img src="assets/logo.svg" width="600" alt="Dup Plex">
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg?style=flat-square)](https://www.python.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%203-blue.svg?style=flat-square)](https://github.com/Pray4Tre/Plex-DupeFinder/blob/master/LICENSE.md)
@@ -47,7 +47,6 @@ Click to enlarge.
 # Installation
 
 _Note: Steps below are for Debian-based distros (other operating systems will require tweaking to the steps)._
-
 1. Install Python 3 and PIP
 
    ```
@@ -57,7 +56,7 @@ _Note: Steps below are for Debian-based distros (other operating systems will re
 1. Clone the Plex DupeFinder repo.
 
    ```
-   sudo git clone https://github.com/Pray4Tre/Plex-DupeFinder.git /opt/plex_dupefinder
+   sudo git clone https://github.com/Pray4Tre/dup_plex.git /opt/dup_plex
    ```
 
 1. Find your user & group.
@@ -69,13 +68,13 @@ _Note: Steps below are for Debian-based distros (other operating systems will re
 1. Fix permissions of the Plex DupeFinder folder (replace `user`/`group` with yours).
 
    ```
-   sudo chown -R user:group /opt/plex_dupefinder
+   sudo chown -R user:group /opt/dup_plexf
    ```
 
 1. Go into the Plex DupeFinder folder.
 
    ```
-   cd /opt/plex_dupefinder
+   cd /opt/dup_plex
    ```
 
 1. Install the required python modules.
@@ -87,19 +86,19 @@ _Note: Steps below are for Debian-based distros (other operating systems will re
 1. Create a shortcut for Plex DupeFinder.
 
    ```
-   sudo ln -s /opt/plex_dupefinder/plex_dupefinder.py /usr/local/bin/plex_dupefinder
+   sudo ln -s /opt/dup_plex/dup_plex.py /usr/local/bin/dup_plex
    ```
 
 1. Generate a `config.json` file.
 
    ```
-   plex_dupefinder
+   dup_plex
    ```
 
 1. Fill in Plex URL and credentials at the prompt to generated a Plex Access Token (optional).
 
    ```
-   Dumping default config to: /opt/plex_dupefinder/config.json
+   Dumping default config to: /opt/dup_plex/config.json
    Plex Server URL: http://localhost:32400
    Plex Username: your_plex_username
    Plex Password: your_plex_password
@@ -363,19 +362,8 @@ You will need to make sure that **Allow media deletion** is enabled in Plex.
 Simply run the script/command:
 
 ```
-plex_dupefinder
+dup_plex
 ```
 
 ***
 
-# Donate
-
-If you find this project helpful, feel free to make a small donation to the developer:
-
-  - [Monzo](https://monzo.me/today): Credit Cards, Apple Pay, Google Pay
-
-  - [Beerpay](https://beerpay.io/l3uddz/plex_dupefinder): Credit Cards
-
-  - [Paypal: l3uddz@gmail.com](https://www.paypal.me/l3uddz)
-
-  - BTC: 3CiHME1HZQsNNcDL6BArG7PbZLa8zUUgjL
