@@ -8,7 +8,6 @@
 <!-- TOC depthFrom:1 depthTo:2 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Introduction](#introduction)
-- [Demo](#demo)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Configuration](#configuration)
@@ -29,12 +28,6 @@ Plex DupeFinder is a python script that finds duplicate versions of media (TV ep
 
 Duplicates can be either in bulk (automatic) or on-by-one (interactively).
 
-
-# Demo
-
-Click to enlarge.
-
-[![asciicast](assets/demo.gif)](https://asciinema.org/a/180157?cols=180&rows=50)
 
 
 # Requirements
