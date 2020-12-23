@@ -99,6 +99,7 @@ _Note: Steps below are for Debian-based distros (other operating systems will re
 
    ```
    chmod a+x dup_plex.py
+   chmod a+x config.py
    ```
 
 1. Fill in Plex URL and credentials at the prompt to generated a Plex Access Token (optional).
