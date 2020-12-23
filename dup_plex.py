@@ -331,7 +331,6 @@ if __name__ == "__main__":
 # Author:   pray4tre                                                    #
 # URL:      https://github.com/pray4tre/dup_plex                        #
 # --                                                                    #
-#         Part of the Cloudbox project: https://cloudbox.works          #
 #########################################################################
 #                   GNU General Public License v3.0                     #
 #########################################################################
